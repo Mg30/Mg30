@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Pyspark, Python, Vuejs
-- 🌱 I’m currently learning Azure, AWS using Pulumi
-- 💬 Ask me about anything 
-- 📫
+Welcome to my GitHub profile! I'm a data Engineer.
+I'm passionate about developing high-quality data solutions that drive meaningful insights and value for businesses.
 
-you can fin my blog here : https://medium.com/@matgonzalez
+## My skills are:
+- Python
+- SQL
+- Spark
+- Javascript
