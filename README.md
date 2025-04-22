@@ -37,10 +37,10 @@
 
 ## Featured Projects
 
-### [Project Name 1](link_to_project_repo)
-A brief description of Project 1. Mention the key technologies used (e.g., Python, PySpark, ML model).
-### [Project Name 2](link_to_project_repo)
-A brief description of Project 2. Mention the key technologies used (e.g., Next.js, JavaScript, PostgreSQL).
+### [Footixify](https://www.footixify.com/)  
+An AI-powered soccer prediction platform that helps users identify value bets by comparing machine-learned probabilities with bookmaker odds. Offer match previews powered by IA to spot betting opportunities based on data, news and odds analysis.
+Key technologies: Python, PySpark, Scikit-learn, FastAPI, React, Supabase, AWS Glue, MLflow.
+
 ---
 
 ## Connect with Me
