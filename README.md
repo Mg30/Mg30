@@ -1,50 +1,41 @@
-![alt](./banner_gh.png)
-# Hi there, I'm Matt 👋
+![Connected structures representing agents, data flows, and persistence](banner_gh.png)
 
-## About Me
+# Matt | AI & Software Engineer
 
-<p>
-  Passionate about building intelligent systems and extracting valuable insights from data. I thrive on solving complex problems at the intersection of software and data engineering.
-</p>
-<p>
-  My expertise lies in Python development, particularly in data environments using technologies like SQL, PySpark, and PostgreSQL. I'm also deeply interested in Machine Learning and Artificial Intelligence, constantly exploring how to leverage these fields to create innovative solutions.
-</p>
-<p>
-  In addition to my data focus, I have experience in web development with JavaScript and Next.js, which allows me to build full-stack applications and data visualization tools.
-</p>
----
+I design and build AI-powered applications, data platforms, and Python backends,
+with a focus on reliability, evaluation, security, and maintainable architecture.
 
-## Skills
+My work spans LLM agents, RAG, text-to-SQL, data engineering, and backend development.
+I turn AI prototypes into robust applications, with explicit contracts and measurable behavior.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-### Data Technologies
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-### AI / Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-### Web Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
----
+## Technical focus
 
-## GitHub Stats
+| Area | Representative technologies and practices |
+| --- | --- |
+| AI Engineering | Pydantic AI, MCP, RAG, agent orchestration, evaluation, observability |
+| Backend Engineering | Python, FastAPI, PostgreSQL, SQLAlchemy 2.0, async APIs |
+| Data Engineering | SQL, Spark/PySpark, ETL/ELT, AWS Glue, S3, Delta Lake |
+| Full-stack & Infrastructure | TypeScript, Next.js, React, Docker, AWS, Azure, CI/CD |
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mg30&show_icons=true&theme=radical&hide_border=true&count_private=true)
+## Selected Open-Source Projects
 
----
+These repositories share reusable tools and starter projects. Much of my enterprise
+AI and data platform work is private.
 
-## Featured Projects
+| Project | Focus |
+| --- | --- |
+| [mem0-postgres-store](https://github.com/Mg30/mem0-postgres-store) | PostgreSQL persistence for Mem0 OSS, with pgvector, tenant isolation, RLS, and migrations. |
+| [flowrun](https://github.com/Mg30/flowrun) | Lightweight asynchronous DAG orchestration for Python data workflows. |
+| [fastapi-ai-mcp](https://github.com/Mg30/fastapi-ai-mcp) | FastAPI starter project for AI assistants with PostgreSQL, streaming, and MCP tools. |
+| [pydwt](https://github.com/Mg30/pydwt) | SQLAlchemy-based data modeling and DAG workflow orchestration. |
+| [genpipes](https://github.com/Mg30/genpipes) | Composable Python data pipelines using decorators and generators. |
+| [aiopyo365](https://github.com/Mg30/aiopyo365) | Asynchronous Microsoft Graph integrations for SharePoint and drive items. |
 
-### [Footixify](https://www.footixify.com/)  
-An AI-powered soccer prediction platform that helps users identify value bets by comparing machine-learned probabilities with bookmaker odds. Offer match previews powered by IA to spot betting opportunities based on data, news and odds analysis.
-Key technologies: Python, PySpark, Scikit-learn, FastAPI, React, Supabase, AWS Glue, MLflow.
+## Current interests
 
----
+Reliable agentic systems, LLM evaluation, agent memory and persistence, AI-assisted
+software engineering, and the architecture needed to make AI applications ready for production.
 
-## Connect with Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-gonzalez/)
----
-<p align="center">Thanks for stopping by! 😊</p>
+[LinkedIn](https://www.linkedin.com/in/matthieu-gonzalez/)
