@@ -27,9 +27,7 @@ AI and data platform work is private.
 | [mem0-postgres-store](https://github.com/Mg30/mem0-postgres-store) | PostgreSQL persistence for Mem0 OSS, with pgvector, tenant isolation, RLS, and migrations. |
 | [flowrun](https://github.com/Mg30/flowrun) | Lightweight asynchronous DAG orchestration for Python data workflows. |
 | [fastapi-ai-mcp](https://github.com/Mg30/fastapi-ai-mcp) | FastAPI starter project for AI assistants with PostgreSQL, streaming, and MCP tools. |
-| [pydwt](https://github.com/Mg30/pydwt) | SQLAlchemy-based data modeling and DAG workflow orchestration. |
 | [genpipes](https://github.com/Mg30/genpipes) | Composable Python data pipelines using decorators and generators. |
-| [aiopyo365](https://github.com/Mg30/aiopyo365) | Asynchronous Microsoft Graph integrations for SharePoint and drive items. |
 
 ## Current interests
 
